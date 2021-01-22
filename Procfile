@@ -1,0 +1,1 @@
+web: gunicorn rovine-moringa.wsgi --log-file -
